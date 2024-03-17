@@ -2,4 +2,4 @@
 
 - `cd react`
 - `npm i`
-- `npmn run start`
+- `npm run start`
