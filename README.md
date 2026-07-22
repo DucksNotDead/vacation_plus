@@ -6,24 +6,18 @@
 
 ## Демо
 
-https://github.com/DucksNotDead/vacation_plus/raw/main/docs/demo.mp4
-
-[Скачать демо-видео](docs/demo.mp4) · ~40 сек
+[▶ Смотреть демо (~40 сек)](https://github.com/DucksNotDead/vacation_plus/blob/main/docs/demo.mp4)
 
 ## Скриншоты
 
-<p>
+<p align="center">
   <img src="docs/screenshots/admin.png" width="48%" alt="Админ: формирование отпуска" />
   <img src="docs/screenshots/select-dates.png" width="48%" alt="Выбор дат отпуска" />
 </p>
-<p>
+<p align="center">
   <img src="docs/screenshots/gantt.png" width="48%" alt="Диаграмма Ганта" />
   <img src="docs/screenshots/employee.png" width="48%" alt="Карточка сотрудника" />
 </p>
-
-| Админ-панель | Выбор дат | Гантт | Сотрудник |
-| --- | --- | --- | --- |
-| Формирование года и подразделения | Календарь отпускных интервалов | Годовой план по сотрудникам | Профиль и направления |
 
 ## Возможности
 
