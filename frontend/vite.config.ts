@@ -7,4 +7,8 @@ export default defineConfig({
     port: 3000
   },
   plugins: [react()],
+  test: {
+    environment: 'node',
+    include: ['src/**/*.test.ts'],
+  },
 })
