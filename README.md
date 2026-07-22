@@ -5,14 +5,14 @@
 ## Структура
 
 ```
-frontend/   # клиент (приложение в frontend/app)
+frontend/   # клиент (React/Vite)
 backend/    # API (ASP.NET Core)
 ```
 
 ## Frontend
 
 ```bash
-cd frontend/app
+cd frontend
 npm i
 npm run dev
 ```
