@@ -6,7 +6,7 @@
 
 ## Демо
 
-[▶ Смотреть демо (~40 сек)](https://github.com/DucksNotDead/vacation_plus/blob/main/docs/demo.mp4)
+![Демо Vacation Plus](docs/demo.gif)
 
 ## Скриншоты
 
@@ -40,7 +40,7 @@
 ```
 frontend/   # React/Vite клиент
 backend/    # .NET API (VacationPlusNewAPI)
-docs/       # демо-видео и скриншоты
+docs/       # демо GIF и скриншоты
 ```
 
 ## Запуск
